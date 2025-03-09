@@ -3,7 +3,7 @@
  * Plugin Name: Dynamic Featured Image CSS
  * Plugin URI: https://Kevinlepiten.com
  * Description: Dynamically applies the featured image as a background for elements with the class "dynamic-featured-bg".
- * Version: 1.0
+ * Version: 1.2
  * Author: Kevin Lepiten
  * Author URI: https://Kevinlepiten.com
  * License: GPL2
